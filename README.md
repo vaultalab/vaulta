@@ -100,7 +100,7 @@ npx serve .
 
 | Phase | Timeline | Status |
 |-------|----------|--------|
-| Testnet (Base Sepolia) | Q2 2026 | ✅ Live |
+| Testnet (Base Sepolia) | Q2 2026 | ✅ Live | 
 | Token + Mainnet Launch | Q2 - Q3 2026 | ✅ Live |
 | Smart Contract Audit | Q2–Q3 2026 | 🔄 [In Progress](/audit) |
 | Boost Vault + AI Dashboard | Q4 2026 | ⏳ Upcoming |
@@ -139,6 +139,7 @@ npx serve .
 See [SKILL.md](./SKILL.md) for full design system and project context before contributing.
 
 CA : 0xc3c1b80A134A63A93b4b8BC3e3c5AdA2B9321BFE
+
 ---
 
 ## License
